@@ -5,6 +5,7 @@ RUN apt-get update && apt-get install -y \
     texlive-luatex \
     texlive-lang-german \
     texlive-latex-extra \
+    texlive-science \
     xindy \
     openjdk-8-jre \
     cm-super \
